@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Launch Proyecto",
+            "type": "python",
+            "request": "launch",
+            "program": "main.py",
+            "console": "integratedTerminal"
+        }
+    ]
+}
